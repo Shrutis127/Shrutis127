@@ -8,7 +8,7 @@ I'm a passionate **Developer Engineer** with a strong background in various prog
 
 I thrive in environments where creativity meets logic, whether it's building intuitive web applications, crafting clean mobile apps, or writing optimized backend code. I believe in writing code that not only works but is also clean, scalable, and maintainable.
 
-In my free time, I contribute to open-source projects, enhance my skills with the latest tools, and love exploring innovative solutions to real-world problems. I'm always on the lookout for exciting opportunities and collaborations that challenge me to grow both personally and professionally.
+
 
 Let's connect and create something amazing together! 😊
 ---
